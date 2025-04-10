@@ -2,7 +2,7 @@
 👋I'm Saâd, Fullstack developer from Morocco .
 
 <br>🚀Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.<br>Rapid Fire<br>💼 I'm currently working on: 💻 Developing a new e-commerce platform using angular and spring<br>🌱 I'm currently learning: 📚 Exploring DevSecOps<br>💬 Ask me about: 💡 Java , Spring (data, Boot ,security ,batch ) , JavaScript, React, Node.js, MongoDB, and RESTful APIs<br>⚡ Fun fact: 🎢 I once debugged a issue while on a roller coaster!
-
+just kidding :b
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/3pl7ven/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saâd-mchichou/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saad.amachichou@gmail.com) 
