@@ -2,11 +2,11 @@
 👋I'm Saâd, Fullstack developer from Morocco .
 
 <br>🚀Passionate fullstack web developer, creating robust and scalable web applications. 
-Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.
+<br>Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.
 <br>💼 I'm currently working on: 💻 Developing a new e-commerce platform using angular and spring 
 <br>🌱 I'm currently learning: 📚 Exploring DevSecOps and AI agents<br>
 💬 Ask me about: 💡 Java , Spring (data, Boot ,security ,batch ) , JavaScript, React, Node.js, MongoDB, and RESTful APIs 
-<br>⚡ Fun fact: 🎢 I once debugged a issue while on a roller coaster!
+<br>⚡ Fun fact: 🎢 I once debugged a issue while on a roller coaster!<br>
 just kidding :b
 
 ## 🌐 Socials:
