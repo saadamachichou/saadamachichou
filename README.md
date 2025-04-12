@@ -11,6 +11,7 @@
 just kidding :b
 
 ## 🌐 Socials:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/3pl7ven/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saâd-mchichou/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saad.amachichou@gmail.com) 
 
 # 💻 Tech Stack:
