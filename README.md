@@ -1,5 +1,5 @@
 # 💫 About Me :
-👋 I'm Saâd, Fullstack developer from Morocco.
+👋 I'm Saâd, Fullstack developer from Morocco .
 
 <br>🚀 Passionate fullstack web developer, creating robust and scalable web applications. 
 <be> Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.<be>
