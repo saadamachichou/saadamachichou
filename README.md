@@ -8,7 +8,6 @@
 <br>🌱 I'm currently learning: <br>📚 Exploring DevSecOps and AI agents<br>
 💬 Ask me about: 💡 Java , Spring (data, Boot ,security ,batch ) , JavaScript, React, Node.js, MongoDB, and RESTful APIs 
 <br>⚡ Fun fact: 🎢 I once debugged a issue while on a roller coaster!<br>
-just kidding :b
 
 ## 🌐 Socials:
 
