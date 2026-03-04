@@ -9,6 +9,31 @@
 💬 Ask me about: 💡 Java , Spring (data, Boot ,security ,batch ) , JavaScript, React, Typescript ,Node.js, MongoDB, and RESTful APIs 
 <br>⚡ Fun fact: 🎢 I once debugged a issue while on a roller coaster!<br>
 
+👋 Hi, I'm Saâd Mchichou — Full-Stack Software Engineer from Morocco, based in Rabat.
+
+I architect and build robust, scalable web applications with a strong focus on clean architecture, performance, and seamless user experience. My core backend expertise is in Java & the Spring ecosystem (Boot, Security, Data, Batch), while on the frontend I work extensively with React, TypeScript, and Next.js to craft modern, high-performance interfaces.
+
+🚀 I’m passionate about transforming complex ideas into production-ready digital products that combine technical excellence with thoughtful design.
+
+💼 Founder & Technical Leader
+I’m the CEO & CTO of AstroQode Labs (astroqodelabs.com), where I lead product architecture, engineering strategy, and full-stack development — building scalable SaaS platforms and custom digital solutions.
+
+💻 Currently building
+Developing a SaaS application using Next.js and TypeScript with a scalable backend architecture.
+
+🌱 Currently exploring
+
+DevSecOps & security-first system design
+
+AI workflows & automation pipelines
+
+MCP (Model Context Protocol) integrations
+
+Agentic AI systems & autonomous agents
+
+💬 Ask me about
+Java, Spring Boot, Spring Security, RESTful APIs, React, Next.js, TypeScript, Node.js, MongoDB, scalable architectures, and AI-driven application design.
+
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/3pl7ven/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saâd-mchichou/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saad.amachichou@gmail.com) 
